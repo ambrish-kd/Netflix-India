@@ -1,19 +1,13 @@
-
 # Netflix India
 
 A responsive clone website of Netflix India.
 
-
-
-
 ## Demo Video
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
+https://github.com/ambrish-kd/Netflix-India/assets/90711457/9d57281d-4f51-4ade-8a33-5bcc9c65bdf6
 
 ## Tech Stack
 
 **Client:** HTML, CSS, JavaScript
 
 **Server:** NULL
-
